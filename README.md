@@ -38,15 +38,15 @@ Provides real-time monitoring of:
 
 ### Grafana Home
 
-![Grafana Home](docs/evidence/grafana-home.png)
+![Grafana Home](terraform/docs/evidence/grafana-home.png)
 
 ### Node Metrics Dashboard
 
-![Node Metrics](docs/evidence/grafana-node-metrics.png)
+![Node Metrics](terraform/docs/evidence/grafana-node-metrics.png)
 
 ### Pod Metrics Dashboard
 
-![Pod Metrics](docs/evidence/grafana-pod-metrics.png)
+![Pod Metrics](terraform/docs/evidence/grafana-pod-metrics.png)
 
 ---
 
