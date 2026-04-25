@@ -1,5 +1,7 @@
 # Cloud Observability Platform (GKE + Prometheus + Grafana)
 
+Production-ready Kubernetes observability platform deployed on GKE using Terraform, Prometheus, and Grafana with cost optimisation and real-world troubleshooting.
+
 ## 🚀 Overview
 
 Production-style observability platform deployed on **Google Kubernetes Engine (GKE)** using **Terraform** and **Helm**.
