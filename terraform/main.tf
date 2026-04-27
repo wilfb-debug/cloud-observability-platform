@@ -1,11 +1,6 @@
-provider "google" {
-  project = "cloud-observability-platform"
-  region  = "europe-west2"
-}
-
 resource "google_container_cluster" "primary" {
   name     = "observability-cluster"
-  location = "europe-west2-a"
+  location = var.zone
 
   initial_node_count       = 1
   remove_default_node_pool = false
